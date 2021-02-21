@@ -1,4 +1,7 @@
 # 木 棍
+可以转载，但不要添加来源
+
+
 <details>
 <summary>树场合集
 </summary>
@@ -32,4 +35,13 @@
 </summary>
 
 [V2RAYN](https://github.com/2dust/v2rayN/releases)
+</details>
+
+<details>
+<summary>CHROME插件
+</summary>
+
+[GHELPER-所有网站](http://googlehelper.net/)
+
+[PP谷歌访问助手-仅限带"google"的网站](http://www.ppgoogle.net/)
 </details>
