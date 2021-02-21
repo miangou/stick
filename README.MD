@@ -28,6 +28,12 @@
 三方端:(小厂商开发的第三方木棍端，只能使用厂商自己的木棍)
 
 [老王VPN](http://www.guandao.cc/app/37) or  [老王VPN](https://miangou.lanzoui.com/iFMIDlxv3fi)
+
+[PANDAVPN](https://pandavpnpro.com/) or [PANDAVPN](https://github.com/PandaVPN/panda)
+
+[nordvpn](https://nordvpn.com/zh/)
+
+[ExpressVPN](www.expressvpn.tw)
 </details>
 
 <details>
